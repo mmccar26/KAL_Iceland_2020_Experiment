@@ -1,4 +1,4 @@
-# KAL_Iceland_2020_Experiment
+# KAL_Iceland_2020_Manuscript
 
 Data and scripts for manuscript entitled "Vegetation structure modulates ecosystem effects of insect subsidies in a subarctic grassland." 
 
